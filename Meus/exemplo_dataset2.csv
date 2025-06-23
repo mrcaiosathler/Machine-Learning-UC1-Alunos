@@ -1,4 +1,4 @@
-id,idade,renda,cidade,categoria,nota,feedback
+﻿id,idade,renda,cidade,categoria,nota,feedback
 1,30,1200,Sao Paulo,A,8.5,Bom
 2,45,2500,Rio de Janeiro,B,7.0,Regular
 3,29,1200,Belo Horizonte,A,5.5,Bom

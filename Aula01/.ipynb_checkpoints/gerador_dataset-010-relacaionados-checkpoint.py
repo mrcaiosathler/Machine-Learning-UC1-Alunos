@@ -11,8 +11,8 @@ CAPITAIS = [
 ]
 
 CATEGORIAS = ['A', 'B']
-MIN_SALARIO = 1542
-MAX_SALARIO = 15420  # 10 salarios minimos aproximadamente
+MIN_SALARIO = 1300
+MAX_SALARIO = 13000  # 10 salarios minimos aproximadamente
 
 def gerar_idade():
     return random.randint(16, 70)
