@@ -3,7 +3,7 @@ id,idade,renda,cidade,categoria,nota,feedback,feedback_Bom
 2,42.0,9306.04,Belo Horizonte,B,5.1,Regular,0
 3,35.0,5148.47,Vitória,B,9.4,Ruim,0
 4,16.0,12597.91,Belo Horizonte,B,1.8,Regular,0
-5,41.0,11057.24,Vitória,B,0.3,,0
+5,41.0,11057.24,Vitória,B,0.3,Desconhecido,0
 6,51.0,6113.01,São Paulo,B,1.1,Regular,0
 7,69.0,7170.179634888438,Belo Horizonte,B,6.4,Regular,0
 8,31.0,4359.39,Vitória,B,1.8,Regular,0
@@ -42,7 +42,7 @@ id,idade,renda,cidade,categoria,nota,feedback,feedback_Bom
 41,69.0,11408.04,Rio de Janeiro,A,5.1,Ruim,0
 42,35.0,1376.75,São Paulo,B,6.3,Regular,0
 43,54.0,3825.94,Belo Horizonte,B,9.2,Regular,0
-44,56.0,2156.7,Belo Horizonte,A,9.3,,0
+44,56.0,2156.7,Belo Horizonte,A,9.3,Desconhecido,0
 45,47.0,12999.29,Rio de Janeiro,A,2.8,Regular,0
 46,49.0,12030.75,São Paulo,A,0.0,Ruim,0
 47,37.0,12163.12,Vitória,B,3.6,Regular,0
@@ -154,7 +154,7 @@ id,idade,renda,cidade,categoria,nota,feedback,feedback_Bom
 153,105.0,661.81,Rio de Janeiro,B,-0.6,Regular,0
 154,30.0,3566.12,São Paulo,B,6.3,Bom,1
 155,19.0,9478.78,Vitória,A,8.0,Regular,0
-156,24.0,2830.92,Vitória,A,6.2,,0
+156,24.0,2830.92,Vitória,A,6.2,Desconhecido,0
 157,48.0,6468.85,Belo Horizonte,B,1.7,Bom,1
 158,29.0,3217.71,São Paulo,B,7.3,Bom,1
 159,26.0,10829.88,Rio de Janeiro,A,1.3,Bom,1
@@ -173,7 +173,7 @@ id,idade,renda,cidade,categoria,nota,feedback,feedback_Bom
 172,47.0,4520.86,Vitória,B,3.5,Ruim,0
 173,23.0,4177.18,Rio de Janeiro,A,3.9,Ruim,0
 174,36.0,10965.09,Belo Horizonte,B,5.6,Ruim,0
-175,21.0,2242.15,São Paulo,A,7.0,,0
+175,21.0,2242.15,São Paulo,A,7.0,Desconhecido,0
 176,57.0,12805.99,Rio de Janeiro,A,7.1,Regular,0
 177,30.0,1395.44,Belo Horizonte,B,1.4,Ruim,0
 178,30.0,7178.63,Belo Horizonte,B,6.2,Bom,1
@@ -297,7 +297,7 @@ id,idade,renda,cidade,categoria,nota,feedback,feedback_Bom
 296,31.0,5875.66,Belo Horizonte,B,6.2,Bom,1
 297,57.0,6153.92,São Paulo,A,3.6,Bom,1
 298,59.0,4943.64,Rio de Janeiro,B,7.9,Regular,0
-299,24.0,6267.93,Belo Horizonte,A,3.6,,0
+299,24.0,6267.93,Belo Horizonte,A,3.6,Desconhecido,0
 300,28.0,6775.09,Vitória,B,7.7,Bom,1
 301,32.0,12015.18,Belo Horizonte,B,9.9,Bom,1
 302,21.0,9249.48,Belo Horizonte,B,1.0,Bom,1
@@ -420,7 +420,7 @@ id,idade,renda,cidade,categoria,nota,feedback,feedback_Bom
 419,51.0,8185.76,Vitória,B,8.8,Regular,0
 420,18.0,2923.11,Vitória,A,7.1,Ruim,0
 421,33.0,3864.93,São Paulo,A,7.1,Ruim,0
-422,16.0,12965.42,São Paulo,A,0.9,,0
+422,16.0,12965.42,São Paulo,A,0.9,Desconhecido,0
 423,67.0,6359.18,Rio de Janeiro,B,1.5,Ruim,0
 424,46.0,9939.84,Belo Horizonte,B,6.2,Regular,0
 425,27.0,6521.04,Rio de Janeiro,B,9.5,Ruim,0
@@ -452,7 +452,7 @@ id,idade,renda,cidade,categoria,nota,feedback,feedback_Bom
 451,39.0,2012.6,Vitória,A,9.7,Ruim,0
 452,27.0,8754.84,Belo Horizonte,B,5.5,Ruim,0
 453,68.0,9221.28,São Paulo,A,9.3,Regular,0
-454,17.0,11068.58,Vitória,B,1.1,,0
+454,17.0,11068.58,Vitória,B,1.1,Desconhecido,0
 455,45.0,10407.29,Belo Horizonte,A,9.2,Regular,0
 456,23.0,7230.31,Belo Horizonte,B,9.1,Regular,0
 457,68.0,1496.53,São Paulo,A,3.1,Bom,1
@@ -477,7 +477,7 @@ id,idade,renda,cidade,categoria,nota,feedback,feedback_Bom
 476,17.0,10304.42,Belo Horizonte,B,6.5,Ruim,0
 477,22.0,6846.55,Vitória,A,7.2,Regular,0
 478,22.0,5523.86,Belo Horizonte,A,1.6,Ruim,0
-479,28.0,11183.84,São Paulo,A,8.1,,0
+479,28.0,11183.84,São Paulo,A,8.1,Desconhecido,0
 480,42.0,8842.62,Vitória,A,8.7,Regular,0
 481,68.0,11564.28,São Paulo,A,7.0,Bom,1
 482,30.0,8420.65,Vitória,A,9.5,Bom,1
@@ -496,7 +496,7 @@ id,idade,renda,cidade,categoria,nota,feedback,feedback_Bom
 495,24.0,12635.72,Vitória,A,1.7,Ruim,0
 496,26.0,2430.31,Vitória,B,2.8,Bom,1
 497,47.0,10260.26,Rio de Janeiro,B,1.4,Bom,1
-498,42.0,9288.09,Belo Horizonte,B,2.2,,0
+498,42.0,9288.09,Belo Horizonte,B,2.2,Desconhecido,0
 499,19.0,9641.32,Desconhecido,A,9.2,Regular,0
 500,59.0,9896.54,Vitória,A,7.2,Ruim,0
 501,45.0,10234.05,Vitória,A,3.0,Regular,0
@@ -520,7 +520,7 @@ id,idade,renda,cidade,categoria,nota,feedback,feedback_Bom
 519,60.0,3383.18,Vitória,B,4.5,Regular,0
 520,43.0,4540.41,São Paulo,B,5.5,Ruim,0
 521,25.0,11807.92,Vitória,B,0.1,Ruim,0
-522,50.0,7679.77,Vitória,A,6.8,,0
+522,50.0,7679.77,Vitória,A,6.8,Desconhecido,0
 523,72.0,29361.1,São Paulo,B,10.7,Ruim,0
 524,25.0,12583.51,Rio de Janeiro,B,8.5,Regular,0
 525,45.0,9399.11,Rio de Janeiro,B,3.1,Bom,1
@@ -649,7 +649,7 @@ id,idade,renda,cidade,categoria,nota,feedback,feedback_Bom
 648,46.0,3802.75,Belo Horizonte,B,1.5,Ruim,0
 649,19.0,8036.08,São Paulo,A,2.8,Regular,0
 650,23.0,8510.75,Rio de Janeiro,B,6.0,Bom,1
-651,31.0,10587.14,São Paulo,A,5.5,,0
+651,31.0,10587.14,São Paulo,A,5.5,Desconhecido,0
 652,53.0,5955.77,São Paulo,A,2.5,Regular,0
 653,67.0,10842.78,Rio de Janeiro,B,7.9,Ruim,0
 654,63.0,8408.29,Belo Horizonte,A,6.0,Regular,0
@@ -863,7 +863,7 @@ id,idade,renda,cidade,categoria,nota,feedback,feedback_Bom
 862,19.0,7539.41,Vitória,A,9.8,Bom,1
 863,22.0,6945.34,Belo Horizonte,B,4.7,Regular,0
 864,16.0,7014.28,Vitória,B,6.3,Regular,0
-865,24.0,7573.48,Belo Horizonte,A,9.9,,0
+865,24.0,7573.48,Belo Horizonte,A,9.9,Desconhecido,0
 866,70.0,8576.33,Rio de Janeiro,A,6.1,Ruim,0
 867,64.0,3294.13,São Paulo,A,6.4,Bom,1
 868,28.0,12056.25,Rio de Janeiro,B,0.1,Regular,0
@@ -930,7 +930,7 @@ id,idade,renda,cidade,categoria,nota,feedback,feedback_Bom
 929,17.0,9328.44,Belo Horizonte,B,7.2,Regular,0
 930,65.0,1470.68,Vitória,A,1.1,Ruim,0
 931,33.0,10761.24,Belo Horizonte,A,5.5,Ruim,0
-932,45.0,5593.68,Belo Horizonte,A,0.1,,0
+932,45.0,5593.68,Belo Horizonte,A,0.1,Desconhecido,0
 933,45.0,5297.7,Belo Horizonte,B,8.5,Ruim,0
 934,60.0,3476.7,Rio de Janeiro,A,6.0,Bom,1
 935,64.0,10658.52,Rio de Janeiro,B,3.8,Ruim,0
@@ -962,7 +962,7 @@ id,idade,renda,cidade,categoria,nota,feedback,feedback_Bom
 961,48.0,11290.79,São Paulo,B,7.1,Bom,1
 962,26.0,4513.58,Belo Horizonte,A,0.0,Bom,1
 963,46.0,2764.2,Rio de Janeiro,B,2.2,Regular,0
-964,16.0,5223.02,Belo Horizonte,B,9.7,,0
+964,16.0,5223.02,Belo Horizonte,B,9.7,Desconhecido,0
 965,67.0,2943.31,Belo Horizonte,A,1.1,Regular,0
 966,20.0,5895.44,São Paulo,A,5.2,Ruim,0
 967,29.0,1479.81,São Paulo,B,4.2,Regular,0
@@ -971,7 +971,7 @@ id,idade,renda,cidade,categoria,nota,feedback,feedback_Bom
 970,33.0,4541.6,São Paulo,A,6.1,Regular,0
 971,70.0,6692.92,Rio de Janeiro,A,8.8,Regular,0
 972,21.0,4796.43,Vitória,B,2.9,Ruim,0
-973,36.0,3479.84,Belo Horizonte,A,0.5,,0
+973,36.0,3479.84,Belo Horizonte,A,0.5,Desconhecido,0
 974,43.0,3406.63,São Paulo,A,7.3,Bom,1
 975,53.0,8301.29,São Paulo,B,9.1,Ruim,0
 976,20.0,4812.26,Vitória,B,2.4,Ruim,0
